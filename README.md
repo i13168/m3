@@ -18,5 +18,5 @@ https://github.com/MonadnockSystems/pxt-dht11
 (The metadata above is needed for package search.)
 
 ```package
-sensors=github:lioujj/pxt-sensors
+sensors=github:i13168/m3
 ```
